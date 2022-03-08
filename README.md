@@ -25,6 +25,8 @@
 - [django-multisite](https://github.com/ecometrica/django-multisite)
 - [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - phone number field validation
 - [django-ninja](https://django-ninja.rest-framework.com/) - REST API based on pydantic like FastAPI, an alternative to DRF
+- [django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra)
+- [django-ninja-jwt](https://github.com/eadwinCode/django-ninja-jwt)
 - [django-redis](https://github.com/jazzband/django-redis) - redis cache backend
 - [django-service-objects](https://django-service-objects.readthedocs.io/en/latest/) - service base class based on forms
 - [django-storages](https://django-storages.readthedocs.io/en/latest/) - collection of custom storage backends, including S3
