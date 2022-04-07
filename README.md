@@ -55,6 +55,7 @@
 - [pytest](https://docs.pytest.org/en/6.2.x/) - test framework
 - [pytest-cov](https://github.com/pytest-dev/pytest-cov) - produce coverage reports during tests
 - [pytest-django](https://pytest-django.readthedocs.io/en/latest/) - tools for testing django with pytest
+- [pytest-factoryboy](https://pytest-factoryboy.readthedocs.io/) - combine factory approach to the test setup with the dependency injection, heart of the pytest fixtures
 - [pytest-instafail](https://github.com/pytest-dev/pytest-instafail) - show failures and errors instantly instead of waiting until the end of test session
 - [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - speed up test execution with parallel processing
 
