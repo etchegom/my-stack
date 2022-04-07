@@ -68,6 +68,7 @@
 - flake8-colors
 - isort
 - poetry
+- [pyproject-flake8](https://github.com/csachs/pyproject-flake8)
 
 
 ## Vue.js
