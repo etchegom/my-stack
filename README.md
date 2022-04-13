@@ -30,6 +30,7 @@
 - [django-redis](https://github.com/jazzband/django-redis) - redis cache backend
 - [django-service-objects](https://django-service-objects.readthedocs.io/en/latest/) - service base class based on forms
 - [django-storages](https://django-storages.readthedocs.io/en/latest/) - collection of custom storage backends, including S3
+- [django-tailwind](https://github.com/timonweb/django-tailwind) - Django + TailwindCSS
 - [django-templated-email](https://github.com/vintasoftware/django-templated-email) - templated email
 - [django-typed-models](https://github.com/craigds/django-typed-models) - extra type of model inheritance
 - [django-user-agents](https://github.com/selwin/django-user_agents) - identification of visitor's browser
