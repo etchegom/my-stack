@@ -41,6 +41,9 @@
 - [drf-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - JWT authentication plugin for DRF
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - swagger generator
 
+### Links
+- [2021-top-100-django-packages](https://blog.devgenius.io/2021-top-100-django-packages-list-during-the-year-92fef0ba79c9?gi=f683fb71ca8e)
+
 ## FastAPI
 
 - [fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - admin dashboard
