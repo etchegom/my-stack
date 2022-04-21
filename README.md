@@ -15,6 +15,7 @@
 - [django-elasticsearch-dsl](https://github.com/django-es/django-elasticsearch-dsl) - indexing of django models in [Elasticsearch](https://www.elastic.co/)
 - [django-environ](https://django-environ.readthedocs.io/en/latest/) - configure your django with ease
 - [django-extensions](https://github.com/django-extensions/django-extensions) - collection of custom extensions
+- [django-flags](https://cfpb.github.io/django-flags/) - feature flags
 - [django-fsm](https://github.com/viewflow/django-fsm) - friendly finite state machine
 - [django-fsm-admin](https://github.com/gadventures/django-fsm-admin) - integrate django-fsm into django admin
 - [django-fsm-log](https://github.com/jazzband/django-fsm-log) - log django-fsm ops
