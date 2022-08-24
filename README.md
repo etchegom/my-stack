@@ -79,6 +79,7 @@
 
 ## Vue.js
 
+- [pinia](https://pinia.vuejs.org/) - new vue store
 - [vue-axios](https://www.npmjs.com/package/vue-axios) - axios integration
 - [vue-dropzone](https://www.npmjs.com/package/vue2-dropzone) - file upload
 - [vue-google-maps](https://www.npmjs.com/package/vue2-google-maps) - google maps integration
