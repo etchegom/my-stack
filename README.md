@@ -41,6 +41,7 @@
 - [drf-camelcase](https://github.com/vbabiy/djangorestframework-camel-case) - camelcase JSON support for DRF
 - [drf-friendly-errors](https://github.com/FutureMind/drf-friendly-errors) - improve DRF error display
 - [drf-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - JWT authentication plugin for DRF
+- [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - an OpenAPI 3.0 schema generation for DRF
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - swagger generator
 ---
 - [2021-top-100-django-packages](https://blog.devgenius.io/2021-top-100-django-packages-list-during-the-year-92fef0ba79c9?gi=f683fb71ca8e)
