@@ -1,6 +1,5 @@
 # My-awesome-stack
 
-
 ## Django
 
 - [django-allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) - social auth
@@ -43,9 +42,10 @@
 - [drf-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - JWT authentication plugin for DRF
 - [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - an OpenAPI 3.0 schema generation for DRF
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - swagger generator
----
-- [2021-top-100-django-packages](https://blog.devgenius.io/2021-top-100-django-packages-list-during-the-year-92fef0ba79c9?gi=f683fb71ca8e)
 
+[2021-top-100-django-packages](https://blog.devgenius.io/2021-top-100-django-packages-list-during-the-year-92fef0ba79c9?gi=f683fb71ca8e)
+
+---
 ## FastAPI
 
 - [fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - admin dashboard
@@ -54,7 +54,8 @@
 - [fastapi-mail](https://github.com/sabuhish/fastapi-mail) - simple lightweight mail system
 - [sqlmodel](https://sqlmodel.tiangolo.com/) - interacting with SQL databases with python objects
 
-## Testing
+---
+## Python tests
 
 - [factory_boy](https://factoryboy.readthedocs.io/en/stable/) - test fixtures
 - [freezegun](https://github.com/spulec/freezegun) - mocking the datetime module in tests
@@ -65,6 +66,7 @@
 - [pytest-instafail](https://github.com/pytest-dev/pytest-instafail) - show failures and errors instantly instead of waiting until the end of test session
 - [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - speed up test execution with parallel processing
 
+---
 ## Python tools
 
 - autoflake
@@ -76,7 +78,7 @@
 - poetry
 - [pyproject-flake8](https://github.com/csachs/pyproject-flake8)
 
-
+---
 ## Vue.js
 
 - [pinia](https://pinia.vuejs.org/) - new vue store
@@ -89,3 +91,18 @@
 - vue-slider-component
 - vue-tel-input
 - [quasar framework](https://quasar.dev/)
+
+---
+## [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
+
+- [daisyui](https://github.com/saadeghi/daisyui) - open-source components library
+- [hyperui](https://github.com/markmead/hyperui) - a large collection of free components for marketing, ecommerce and application UI
+- [merakiui](https://github.com/merakiui/merakiui) - components that support RTL languages & fully responsive based on Flexbox & CSS Grid
+- [tailblocks](https://github.com/mertJF/tailblocks) - ready to use blocks
+
+https://github.com/aniftyco/awesome-tailwindcss
+
+---
+## [AlpineJS](https://github.com/alpinejs/alpine)
+
+- [hyperjs](https://js.hyperui.dev/) - a collection of Alpine JS snippets
