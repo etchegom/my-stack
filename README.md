@@ -86,7 +86,6 @@
 - [vue-dropzone](https://www.npmjs.com/package/vue2-dropzone) - file upload
 - [vue-google-maps](https://www.npmjs.com/package/vue2-google-maps) - google maps integration
 - [vue-gtm](https://www.npmjs.com/package/@gtm-support/vue2-gtm) - google tag manager integration
-- [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - set of Vue components on top of Tailwind CSS
 - [vuex](https://github.com/vuejs/vuex) - centralized state management
 - [vue-i18n](https://www.npmjs.com/package/vue-i18n)
 - vue-slider-component
