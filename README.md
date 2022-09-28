@@ -7,6 +7,7 @@
 - [django-axes](https://github.com/jazzband/django-axes) - keep track of login attempts and block brute-force attacks
 - [django-celery-results](https://github.com/celery/django-celery-results) - celery results using django ORM backend
 - [django-countries](https://github.com/SmileyChris/django-countries) - country choices for forms, flag static icons, country model field
+- [django-constance](https://github.com/jazzband/django-constance) - store dynamic settings in pluggable backends
 - [django-cities-light](https://github.com/yourlabs/django-cities-light) - fetch data from [Geonames](http://www.geonames.org/) and prepare database
 - [django-constance](https://github.com/jazzband/django-constance) - store settings in django backend
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - adding CORS headers to response
