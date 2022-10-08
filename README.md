@@ -2,6 +2,7 @@
 
 ## Django
 
+- [django-airports](https://github.com/bashu/django-airports) - like django-cities, but django-airports
 - [django-allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) - social auth
 - [django-anymail](https://github.com/anymail/django-anymail) - ESPs integration
 - [django-axes](https://github.com/jazzband/django-axes) - keep track of login attempts and block brute-force attacks
