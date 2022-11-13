@@ -1,4 +1,4 @@
-# My-awesome-stack
+# My-stack
 
 ## Django
 
