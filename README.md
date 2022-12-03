@@ -1,6 +1,30 @@
-# My-stack
+# My stack / my tools
 
-## Django
+<!-- vscode-markdown-toc -->
+* [Coding](#Coding)
+	* [Django](#Django)
+	* [FastAPI](#FastAPI)
+	* [Testing](#Testing)
+	* [Dev tools](#Devtools)
+* [Devops](#Devops)
+	* [Cloud](#Cloud)
+	* [CI/CD](#CICD)
+	* [Middlewares](#Middlewares)
+* [Fontend](#Fontend)
+	* [Vue.js](#Vue.js)
+	* [TailwindCSS](#TailwindCSS)
+	* [AlpineJS](#AlpineJS)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+
+## <a name='Coding'></a>Coding
+
+### <a name='Django'></a>Django
 
 - [django-airports](https://github.com/bashu/django-airports) - like django-cities, but django-airports
 - [django-allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) - social auth
@@ -19,6 +43,7 @@
 - [django-flags](https://cfpb.github.io/django-flags/) - feature flags
 - [django-fsm](https://github.com/viewflow/django-fsm) - friendly finite state machine
 - [django-fsm-admin](https://github.com/gadventures/django-fsm-admin) - integrate django-fsm into django admin
+- [django-fsm-admin-lite](https://github.com/etchegom/django-fsm-admin-lite) - my "lite" implementation of django-fsm-admin
 - [django-fsm-log](https://github.com/jazzband/django-fsm-log) - log django-fsm ops
 - [django-hijack](https://github.com/django-hijack/django-hijack) - admins can log in and work on behalf of other users without having to know their credentials
 - [django-linear-migrations](https://github.com/adamchainz/django-linear-migrations) - Ensure your migration history is linear
@@ -47,8 +72,8 @@
 
 [2021-top-100-django-packages](https://blog.devgenius.io/2021-top-100-django-packages-list-during-the-year-92fef0ba79c9?gi=f683fb71ca8e)
 
----
-## FastAPI
+
+### <a name='FastAPI'></a>FastAPI
 
 - [fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - admin dashboard
 - [fastapi-cache](https://github.com/long2ice/fastapi-cache) - cache fastapi response against multiple backends
@@ -56,8 +81,7 @@
 - [fastapi-mail](https://github.com/sabuhish/fastapi-mail) - simple lightweight mail system
 - [sqlmodel](https://sqlmodel.tiangolo.com/) - interacting with SQL databases with python objects
 
----
-## Python tests
+### <a name='Testing'></a>Testing
 
 - [factory_boy](https://factoryboy.readthedocs.io/en/stable/) - test fixtures
 - [freezegun](https://github.com/spulec/freezegun) - mocking the datetime module in tests
@@ -68,8 +92,7 @@
 - [pytest-instafail](https://github.com/pytest-dev/pytest-instafail) - show failures and errors instantly instead of waiting until the end of test session
 - [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - speed up test execution with parallel processing
 
----
-## Python tools
+### <a name='Devtools'></a>Dev tools
 
 - autoflake
 - black
@@ -78,10 +101,37 @@
 - flake8-colors
 - isort
 - poetry
+- [precommit hooks](https://pre-commit.com/hooks.html)
 - [pyproject-flake8](https://github.com/csachs/pyproject-flake8)
 
 ---
-## Vue.js
+
+## <a name='Devops'></a>Devops
+
+### <a name='Cloud'></a>Cloud
+
+- [Terraform](https://www.terraform.io/) - automate infra on any cloud
+- [Consul](https://www.consul.io/) - service mesh manager
+
+### <a name='CICD'></a>CI/CD
+
+- [Install poetry](https://github.com/snok/install-poetry) - Github action to install poetry
+- [Create Github release](https://github.com/ncipollo/release-action) - Github action create a GitHub release
+
+
+### <a name='Middlewares'></a>Middlewares
+
+- [PGSync](https://pgsync.com/) - syncing data from Postgres to Elasticsearch
+- [Dapr](https://dapr.io/) - abstraction layer for connecting micro-services
+
+---
+
+
+## <a name='Fontend'></a>Fontend
+
+- [HTMX](https://htmx.org/) - modern browser features directly from HTML
+
+### <a name='Vue.js'></a>Vue.js
 
 - [pinia](https://pinia.vuejs.org/) - new vue store
 - [vue-axios](https://www.npmjs.com/package/vue-axios) - axios integration
@@ -94,17 +144,14 @@
 - vue-tel-input
 - [quasar framework](https://quasar.dev/)
 
----
-## [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
+### <a name='TailwindCSS'></a>TailwindCSS
 
 - [daisyui](https://github.com/saadeghi/daisyui) - open-source components library
 - [hyperui](https://github.com/markmead/hyperui) - a large collection of free components for marketing, ecommerce and application UI
 - [merakiui](https://github.com/merakiui/merakiui) - components that support RTL languages & fully responsive based on Flexbox & CSS Grid
 - [tailblocks](https://github.com/mertJF/tailblocks) - ready to use blocks
 
-https://github.com/aniftyco/awesome-tailwindcss
-
----
-## [AlpineJS](https://github.com/alpinejs/alpine)
+### <a name='AlpineJS'></a>AlpineJS
 
 - [hyperjs](https://js.hyperui.dev/) - a collection of Alpine JS snippets
+
