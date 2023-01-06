@@ -46,6 +46,7 @@
 - [django-fsm-admin-lite](https://github.com/etchegom/django-fsm-admin-lite) - my "lite" implementation of django-fsm-admin
 - [django-fsm-log](https://github.com/jazzband/django-fsm-log) - log django-fsm ops
 - [django-hijack](https://github.com/django-hijack/django-hijack) - admins can log in and work on behalf of other users without having to know their credentials
+- [django-lifecyle](https://github.com/rsinger86/django-lifecycle/) - lifecycle hooks to your Django models
 - [django-linear-migrations](https://github.com/adamchainz/django-linear-migrations) - Ensure your migration history is linear
 - [django-manifest-loader](https://github.com/rykener/django-manifest-loader) - read manifest created by [webpack](https://www.npmjs.com/package/webpack-manifest-plugin)
 - [django-money](https://github.com/django-money/django-money) - money fields in models and forms
