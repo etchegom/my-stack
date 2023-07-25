@@ -4,6 +4,7 @@
 * [Coding](#Coding)
 	* [Django](#Django)
 	* [FastAPI](#FastAPI)
+	* [Flask](#Flask)
 	* [Testing](#Testing)
 	* [Dev tools](#Devtools)
 * [Devops](#Devops)
@@ -81,6 +82,15 @@
 - [fastapi-camelcase](https://nf1s.github.io/fastapi-camelcase) - camelizing request and response bodies
 - [fastapi-mail](https://github.com/sabuhish/fastapi-mail) - simple lightweight mail system
 - [sqlmodel](https://sqlmodel.tiangolo.com/) - interacting with SQL databases with python objects
+
+### <a name='Flask'></a>Flask
+
+- [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/) - SQLAlchemy support
+- [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - db migration (sqlalchemy + alembic)
+- [Flask-Login](https://flask-login.readthedocs.io/en/latest/) - user session management
+- [Flask-Bcrypt](https://github.com/maxcountryman/flask-bcrypt) - password hashing
+- [Flask-Caching](https://github.com/pallets-eco/flask-caching) - cache support
+- [Flask-Admin](https://github.com/flask-admin/flask-admin) - admin interface
 
 ### <a name='Testing'></a>Testing
 
