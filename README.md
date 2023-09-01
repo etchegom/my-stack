@@ -91,6 +91,13 @@
 - [Flask-Bcrypt](https://github.com/maxcountryman/flask-bcrypt) - password hashing
 - [Flask-Caching](https://github.com/pallets-eco/flask-caching) - cache support
 - [Flask-Admin](https://github.com/flask-admin/flask-admin) - admin interface
+- [Flask-DebugToolbar](https://flask-debugtoolbar.readthedocs.io/en/latest/) - debug toolbar
+- [Flask-Assets](https://github.com/miracle2k/webassets) - integrate webassets into your Flask application
+- [Flask-Shell-IPython](https://github.com/ei-grad/flask-shell-ipython) - flask shell with ipython
+- [Flask-nplusone](https://github.com/jmcarp/nplusone#flask-sqlalchemy) - detecting the n+1 queries problems
+- [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io/en/latest/) - serialization library
+- [Flask-Principal](https://github.com/mattupstate/flask-principal) - identity management for Flask applications
+- [Flask-WTF](https://github.com/wtforms/flask-wtf/) - WTForms integration
 
 ### <a name='Testing'></a>Testing
 
