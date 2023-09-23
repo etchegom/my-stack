@@ -32,6 +32,7 @@
 - [django-allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) - social auth
 - [django-anymail](https://github.com/anymail/django-anymail) - ESPs integration
 - [django-axes](https://github.com/jazzband/django-axes) - keep track of login attempts and block brute-force attacks
+- [django-celery-beats](https://github.com/celery/django-celery-beat) - store the periodic task schedule in the database
 - [django-celery-results](https://github.com/celery/django-celery-results) - celery results using django ORM backend
 - [django-cities-light](https://github.com/yourlabs/django-cities-light) - fetch data from [Geonames](http://www.geonames.org/) and prepare database
 - [django-constance](https://github.com/jazzband/django-constance) - store dynamic settings in pluggable backends
