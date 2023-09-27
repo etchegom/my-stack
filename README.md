@@ -103,6 +103,10 @@
 - [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/) - SQLAlchemy support
 - [Flask-WTF](https://github.com/wtforms/flask-wtf/) - WTForms integration
 
+
+[awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+
+
 ### <a name='Misc'></a>Misc
 
 - [Celery](https://github.com/celery/celery) - task queue
