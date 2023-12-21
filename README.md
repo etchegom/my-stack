@@ -55,6 +55,7 @@
 - [django-money](https://github.com/django-money/django-money) - money fields in models and forms
 - [django-mptt](https://django-mptt.readthedocs.io/en/latest/) - tree structure models
 - [django-multisite](https://github.com/ecometrica/django-multisite)
+- [django-ninja-crud](https://github.com/hbakri/django-ninja-crud)
 - [django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra)
 - [django-ninja-jwt](https://github.com/eadwinCode/django-ninja-jwt)
 - [django-ninja](https://django-ninja.rest-framework.com/) - REST API based on pydantic like FastAPI, an alternative to DRF
