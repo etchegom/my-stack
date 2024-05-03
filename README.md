@@ -76,6 +76,7 @@
 - [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - an OpenAPI 3.0 schema generation for DRF
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - swagger generator
 - [drf](https://www.django-rest-framework.org/) - django rest framework
+- [nanodjango](https://github.com/radiac/nanodjango) - write a Django site in a single file
 - [pytest-django](https://pytest-django.readthedocs.io/en/latest/) - tools for testing django with pytest
 
 [2021-top-100-django-packages](https://blog.devgenius.io/2021-top-100-django-packages-list-during-the-year-92fef0ba79c9?gi=f683fb71ca8e)
